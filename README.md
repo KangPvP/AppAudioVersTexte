@@ -29,6 +29,7 @@ En cas d'erreur l'utilisateurs sera informé du problème rencontré
 Fichier audiotraitement.js
 Ce fichier est utile pour le traitement des fichiers audios, il est indispensable car il permet de d'envoyer à l'API un fichier audio universelle, l'utilisateurs n'a pas a se soucier de l'extentions de son fichier audio.
 
+
 Utilisation du local storage pour crée un historique de
 
 Les library Graphique
