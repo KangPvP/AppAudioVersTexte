@@ -20,10 +20,10 @@ Crée un compte Google Cloud, actuellement il existe une offre 90 gratuit avec 2
 
 ## Technique & Bibliothèques
 
-**TailwindCSS** : Framework CSS utilisé pour gérer le responsive design.
-**Wavesurfer.js** : Librairie open-source de visualisation audio pour créer des formes d'ondes interactives et personnalisables.
-**LocalForage** : Librairie de stockage asynchrone pour stocker des fichiers volumineux côté client.
-**Google Cloud Speech-to-Text** : API de transcription.
+- **TailwindCSS** : Framework CSS utilisé pour gérer le responsive design.
+- **Wavesurfer.js** : Librairie open-source de visualisation audio pour créer des formes d'ondes interactives et personnalisables.
+- **LocalForage** : Librairie de stockage asynchrone pour stocker des fichiers volumineux côté client.
+- **Google Cloud Speech-to-Text** : API de transcription.
 
 ## Sutructure du projet
 Fichier index.html
