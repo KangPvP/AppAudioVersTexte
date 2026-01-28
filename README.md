@@ -13,10 +13,10 @@ dossier favion générer par https://realfavicongenerator.net/
 
 ## Prérequis
 Crée un compte Google Cloud, actuellement il existe une offre 90 gratuit avec 200euro de crédit.
-Etape 1: Crée une zone projet
-Etape 2: Accéder a la rubrique API et Service
-Etape 3: Activé l'API Speech to Text
-Etape 4: Générer un clé API
+* Etape 1: Crée une zone projet
+* Etape 2: Accéder a la rubrique API et Service
+* Etape 3: Activé l'API Speech to Text
+* Etape 4: Générer un clé API
 
 ## Technique & Bibliothèques
 
@@ -82,9 +82,9 @@ est une library de visualization d'audio open-source. Elle permet de custom la f
 
 Le projet est configuré pour être installable comme une application native.
 
-**URL de démo** : `https://srv-peda2.iut-acy.univ-smb.fr/jacqutim/AppAudioVersTexte-main/`
-**`manifest.json`** : Gère le nom, les icônes et l'affichage de l'application.
-**`pwa.js`** : Script de gestion pour l'installation et le rechargement de la page/cache.
-**Favicons** : Générés via RealFaviconGenerator.
+* **URL de démo** : `https://srv-peda2.iut-acy.univ-smb.fr/jacqutim/AppAudioVersTexte-main/`
+* **`manifest.json`** : Gère le nom, les icônes et l'affichage de l'application.
+* **`pwa.js`** : Script de gestion pour l'installation et le rechargement de la page/cache.
+* **Favicons** : Générés via RealFaviconGenerator.
 
 Projet API web en Javascript Université
